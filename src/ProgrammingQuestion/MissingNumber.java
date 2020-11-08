@@ -2,7 +2,7 @@ package ProgrammingQuestion;
 
 public class MissingNumber {
     public static void main(String[] args) {
-        int input[] = {1,4,5,3,0,6};
+        int input[] = {1,4,5,3,0,6,7};
         int res;
         res = missingNumber(input);
         System.out.println("res = " + res);
